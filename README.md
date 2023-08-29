@@ -59,8 +59,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -71,10 +69,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Website to upload
 
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+See the [open issues](https://github.com/angealchw2571/audio-art/issues) for a full list of proposed features (and known issues).
 
 
 <!-- CONTRIBUTING -->
