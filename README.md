@@ -38,12 +38,14 @@ I hope to create an application where it will convert an audio sample to pixelat
 
 
 
+
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * whisper.api
-* pixray
+* Stable Diffusion
+* FastAPI
 
 
 
@@ -57,16 +59,14 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
 
 <!-- ROADMAP -->
 ## Roadmap
 
 - [ ] Project Initiation
-- [ ] Audio - Text capabilities
-- [ ] Text - Pixel
-- [ ] Website to upload
+- [ ] Three.js front end
+- [ ] Audio > Text
+- [ ] Text > Stable Diffusion Pixel Art Model
 
 
 See the [open issues](https://github.com/angealchw2571/audio-art/issues) for a full list of proposed features (and known issues).
@@ -90,5 +90,10 @@ Project Link: [https://github.com/angealchw2571/audio-art](https://github.com/an
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
+Whisper.api - [Ved Gupta](https://github.com/innovatorved/whisper.api)
+
+Stable Diffusion Web-UI - [Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
+Pixel art model - [nerijs](https://huggingface.co/nerijs/pixel-art-xl)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
